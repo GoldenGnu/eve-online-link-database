@@ -1,4 +1,6 @@
-Eve Online Link Database
+# Eve Online Link Database
+
+PRs to add more are very welcome!
 
 All Name values need to have space replaced with `_`
 
@@ -45,3 +47,4 @@ All Name values need to have space replaced with `_`
 | `https://www.fuzzwork.co.uk/lpstore/sell/10000002/[corporationID]/withblueprints` | https://www.fuzzwork.co.uk/lpstore/sell/10000002/1000055/withblueprints | Only NPC Corporations |
 | `https://www.fuzzwork.co.uk/lpstore/buy/10000002/[corporationID]/withblueprints` | https://www.fuzzwork.co.uk/lpstore/buy/10000002/1000055/withblueprints | Only NPC Corporations |
 | `https://www.jita.space/lp-store/[corporationName]` | https://www.jita.space/lp-store/Minmatar_Mining_Corporation | Only NPC Corporations | 
+
