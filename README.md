@@ -86,6 +86,7 @@ PRs to add more are very welcome!
 | `https://www.jita.space/corporation/[CorporationID]`                              | https://www.jita.space/corporation/1000055                              |                                                             |
 | `https://zkillboard.com/corporation/[CorporationID]`                              | https://zkillboard.com/corporation/1000055                              |                                                             |
 | `https://eve-kill.com/corporation/[CorporationID]`                                | https://eve-kill.com/corporation/1000055                                |                                                             |
+| `https://evewho.com/corporation/[CorporationID]`                                  | https://evewho.com/corporation/109299958                                |                                                             |
 | `https://www.fuzzwork.co.uk/lpstore/sell/10000002/[CorporationID]/withblueprints` | https://www.fuzzwork.co.uk/lpstore/sell/10000002/1000055/withblueprints | Only NPC Corporations                                       |
 | `https://www.fuzzwork.co.uk/lpstore/buy/10000002/[CorporationID]/withblueprints`  | https://www.fuzzwork.co.uk/lpstore/buy/10000002/1000055/withblueprints  | Only NPC Corporations                                       |
 | `https://www.jita.space/lp-store/[CorporationName]`                               | https://www.jita.space/lp-store/Minmatar_Mining_Corporation             | Only NPC Corporations. Spaces need to be replaced with `_`. | 
@@ -97,3 +98,4 @@ PRs to add more are very welcome!
 | `https://zkillboard.com/alliance/[AllianceID]/` | https://zkillboard.com/alliance/434243723/ |       |
 | `https://eve-kill.com/alliance/[AllianceID]`    | https://eve-kill.com/alliance/434243723    |       |
 | `https://evewho.com/alliance/[AllianceID]`      | https://evewho.com/alliance/434243723      |       |
+
