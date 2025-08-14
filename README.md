@@ -32,11 +32,11 @@ All Name values need to have space replaced with `_`
 | `https://zkillboard.com/item/[TypeID]/` | https://zkillboard.com/item/10679/
 | `https://everef.net/types/[TypeID]` | https://everef.net/types/10679
 | `https://www.jita.space/type/[TypeID]` | https://www.jita.space/type/10679
-| `https://www.fuzzwork.co.uk/blueprint/?typeid=[TypeID]` | https://www.fuzzwork.co.uk/blueprint/?typeid=10679
-| `https://lzb.eveskillboard.com/blueprint/invention/[TypeID]` | https://lzb.eveskillboard.com/blueprint/invention/10679
-| `https://lzb.eveskillboard.com/blueprint/research_copy/[TypeID]` | https://lzb.eveskillboard.com/blueprint/research_copy/10679
-| `https://lzb.eveskillboard.com/blueprint/manufacturing/[TypeID]` | https://lzb.eveskillboard.com/blueprint/manufacturing/10679
-| `https://evecookbook.com/?blueprintTypeId=[TypeID]` | https://evecookbook.com/?blueprintTypeId=10679
+| `https://www.fuzzwork.co.uk/blueprint/?typeid=[TypeID]` | https://www.fuzzwork.co.uk/blueprint/?typeid=10679 | Must be a blueprint
+| `https://lzb.eveskillboard.com/blueprint/invention/[TypeID]` | https://lzb.eveskillboard.com/blueprint/invention/10679 | Must be a blueprint
+| `https://lzb.eveskillboard.com/blueprint/research_copy/[TypeID]` | https://lzb.eveskillboard.com/blueprint/research_copy/10679 | Must be a blueprint
+| `https://lzb.eveskillboard.com/blueprint/manufacturing/[TypeID]` | https://lzb.eveskillboard.com/blueprint/manufacturing/10679 | Must be a blueprint
+| `https://evecookbook.com/?blueprintTypeId=[TypeID]` | https://evecookbook.com/?blueprintTypeId=10679 | Must be a blueprint
 
 | Corporations | Example | Notes |
 | --- | --- | --- |
@@ -47,4 +47,5 @@ All Name values need to have space replaced with `_`
 | `https://www.fuzzwork.co.uk/lpstore/sell/10000002/[corporationID]/withblueprints` | https://www.fuzzwork.co.uk/lpstore/sell/10000002/1000055/withblueprints | Only NPC Corporations |
 | `https://www.fuzzwork.co.uk/lpstore/buy/10000002/[corporationID]/withblueprints` | https://www.fuzzwork.co.uk/lpstore/buy/10000002/1000055/withblueprints | Only NPC Corporations |
 | `https://www.jita.space/lp-store/[corporationName]` | https://www.jita.space/lp-store/Minmatar_Mining_Corporation | Only NPC Corporations | 
+
 
