@@ -18,9 +18,9 @@ PRs to add more are very welcome!
 
 | Template                                                          | Example                                          | Notes                                                               |
 |-------------------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------|
-| `https://zkillboard.com/constellation/[constellationID]/`         | https://zkillboard.com/constellation/20000001/   |                                                                     |
+| `https://zkillboard.com/constellation/[ConstellationID]/`         | https://zkillboard.com/constellation/20000001/   |                                                                     |
 | `https://evemaps.dotlan.net/map/[RegionName]/[ConstellationName]` | https://evemaps.dotlan.net/map/Metropolis/Ankard | Constellation on a Region map. Spaces need to be replaced with `_`. |
-| `https://evemissioneer.com/c/[constellationID]`                   | https://evemissioneer.com/c/20000001             |                                                                     |
+| `https://evemissioneer.com/c/[ConstellationID]`                   | https://evemissioneer.com/c/20000001             |                                                                     |
 
 ### Regions
 
@@ -98,4 +98,5 @@ PRs to add more are very welcome!
 | `https://zkillboard.com/alliance/[AllianceID]/` | https://zkillboard.com/alliance/434243723/ |       |
 | `https://eve-kill.com/alliance/[AllianceID]`    | https://eve-kill.com/alliance/434243723    |       |
 | `https://evewho.com/alliance/[AllianceID]`      | https://evewho.com/alliance/434243723      |       |
+
 
